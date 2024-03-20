@@ -1,6 +1,9 @@
 # 💫 About Me:
 A full stack developer and ML enthusiast<br>Ask me about C++, ML, Web Development, Novels<br>Fun fact: You'd often find my nose in a book :)
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-singh11) 
