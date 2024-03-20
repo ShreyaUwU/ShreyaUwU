@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋A full stack developer and ML enthusiast<br>🌱Ask me about C++, ML, Web Development, Novels<br>👀Fun fact: You'd often find my nose in a book :)
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-singh11) 
@@ -11,8 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShreyaUwU&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaUwU&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaUwU&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Visitor Count](https://profile-counter.glitch.me/ShreyaUwU/count.svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=ShreyaUwU&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
