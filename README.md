@@ -1,7 +1,9 @@
 # 💫 About Me:
 A full stack developer and ML enthusiast<br>Ask me about C++, ML, Web Development, Novels<br>Fun fact: You'd often find my nose in a book :)
 
-<img align="right" height="150" src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7"  />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNub3lubHFoOTg5MW5nZm92czN3cncwcDhpOXY3djhqOXRheGIzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+</div>
 
 
 
