@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="30%" height="30%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100" height="30%"/>
 </div>
 
 ## 💫 About Me:
@@ -22,8 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShreyaUwU&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaUwU&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaUwU&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
----
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)---
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
