@@ -1,8 +1,9 @@
-# 💫 About Me:
+<h1> hey, i'm Shreya</h1>
+## 💫 About Me:
 🔭A full stack developer and ML enthusiast<br>👨‍💻Currently working on machine learning projects<br>💬Ask me about C++, ML, Web Development, Novels<br>🌱Fun fact: You'd often find my nose in a book :)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100%" height="30%"/>
 </div>
 
 
