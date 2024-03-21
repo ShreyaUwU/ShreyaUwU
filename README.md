@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ShreyaUwU&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyaUwU&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaUwU&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![Visitor Count](https://profile-counter.glitch.me/ShreyaUwU/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 ---
 
 
