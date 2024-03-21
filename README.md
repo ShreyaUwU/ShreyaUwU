@@ -1,10 +1,10 @@
 <div align="center">
   <h1> Hey, I'm Shreya 👋</h1>
-  <h3>A passionate developer</h3>
+  <h3>A passionate developer...</h3>
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50%" height="30%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="30%" height="30%"/>
 </div>
 
 ## 💫 About Me:
@@ -24,6 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaUwU&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![Visitor Count](https://profile-counter.glitch.me/ShreyaUwU/count.svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=ShreyaUwU&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
