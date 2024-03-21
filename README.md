@@ -1,7 +1,10 @@
-<h1 align="center"> Hey, I'm Shreya 👋</h1>
-<h3 align="center">A passionate developer</h3>
+<div align="center">
+  <h1> Hey, I'm Shreya 👋</h1>
+  <h3>A passionate developer</h3>
+</div>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50" height="30%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG95NDB4aGt5YXFuYTgzZHJndXQxYmprMDlsaWNhand4cG9kYnJyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50%" height="30%"/>
 </div>
 
 ## 💫 About Me:
